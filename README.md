@@ -1,3 +1,4 @@
 # collApp
 
-![zyro-image](https://user-images.githubusercontent.com/91742636/148355242-20a84d86-3cff-454a-9422-c5987f1f0cb5.png)
+![zyro-image kopyası](https://user-images.githubusercontent.com/91742636/148355569-5085358a-8506-4b18-94d2-38da3bccf917.png)
+
